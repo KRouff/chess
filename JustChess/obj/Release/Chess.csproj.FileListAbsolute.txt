@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\New folder\chess\JustChess\bin\Release\Chess.exe.config
+C:\Users\Admin\Desktop\New folder\chess\JustChess\bin\Release\Chess.exe
+C:\Users\Admin\Desktop\New folder\chess\JustChess\bin\Release\Chess.pdb
+C:\Users\Admin\Desktop\New folder\chess\JustChess\obj\Release\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\chess\JustChess\obj\Release\Chess.exe
+C:\Users\Admin\Desktop\New folder\chess\JustChess\obj\Release\Chess.pdb

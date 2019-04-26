@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\chess\JustChess\bin\Debug\JustChess.exe.config
+C:\Users\Admin\Desktop\chess\JustChess\bin\Debug\JustChess.exe
+C:\Users\Admin\Desktop\chess\JustChess\bin\Debug\JustChess.pdb
+C:\Users\Admin\Desktop\chess\JustChess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chess\JustChess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chess\JustChess\obj\Debug\JustChess.exe
+C:\Users\Admin\Desktop\chess\JustChess\obj\Debug\JustChess.pdb
